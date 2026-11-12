@@ -30,13 +30,6 @@ body {
 }
 
 
-.header {
-  background-color: var(--primary-blue);
-  display: grid;
-  grid-template-columns: 6fr 4fr;
-  align-items: center;
-  overflow: hidden;
-}
 .header img {
   width: 100%;
   height: auto;
